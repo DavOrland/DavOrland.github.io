@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Test features"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,9 +14,6 @@ Muaaaks shikilla
 para tu :* [Abree esto!](https://www.youtube.com/watch?v=1A0MPWseJIE) 
 
 
-
-
-
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -25,6 +22,7 @@ Getting started
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Site-wide configuration
 ------
