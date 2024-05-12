@@ -9,9 +9,7 @@ redirect_from:
 
 Testing
 
-Muaaaks shikilla
-======
-para tu :* [Abree esto!](https://www.youtube.com/watch?v=1A0MPWseJIE) 
+
 
 
 Getting started
