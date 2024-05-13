@@ -47,6 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  Instagram        :  "corax40k"
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
@@ -54,7 +55,6 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        :  "corax40k"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
