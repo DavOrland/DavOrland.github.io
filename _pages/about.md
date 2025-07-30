@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Investigador en Agricultura de Precisión](/images/profile.png){: .align-right}
+
 **Ph.D. Candidate in Agricultural and Forestry Sciences**  
 Universidad Juárez del Estado de Durango  
 Investigación: Sistemas de monitoreo ambiental con tecnologías IoT
