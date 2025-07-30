@@ -18,5 +18,3 @@ Investigación: Sistemas de monitoreo ambiental con tecnologías IoT
 - Análisis de datos agropecuarios con Python/R
 - Sistemas IoT para agricultura de precisión
 - Bioinformática aplicada a recursos forestales
-
-[Descargar CV completo (PDF)](/files/CV_David_Orlando_Romero_Soto.pdf)

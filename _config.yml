@@ -10,8 +10,11 @@
 locale                   : "es-MX"
 title                    : "DavOrland / Portfolio"
 title_separator          : "-"
-name                     : &name "Orlando Romero"
-description              : &description "personal description"
+name                     : David Orlando Romero Soto
+description              : >- 
+  Doctorando en Ciencias Agropecuarias | 
+  Especialista en IoT Agrícola | 
+  Investigador en Bioinformática Forestal
 url                      : https://davorland.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,7 +26,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "David Orlando Romero Soto"
-  pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineer - Master of Engineering"
   location         : "México"
   employer         : "UJED-ISIMA"
@@ -47,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  Instagram        : "corax40k"
+  Instagram        : "@corax40k"
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
