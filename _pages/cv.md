@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Currículum Vitae"
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +8,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Experiencia Profesional
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Operador CNC
+**IDEI** (2022 - Presente)  
+- Operación y programación de fresadoras CNC
+- Fabricación de componentes industriales
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Asistente de Investigación
+**Laboratorio de Genética Forestal - UJED** (2020 - Presente)  
+- Análisis bioinformático de datos genómicos
+- Desarrollo de scripts Python/R para procesamiento de datos
+- Limpieza y gestión de bases de datos PostgreSQL
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Educación
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Doctorado en Ciencias Agropecuarias y Forestales
+**Universidad Juárez del Estado de Durango** (2023 - Presente)  
+- Sistemas de monitoreo remoto con IoT
+- Análisis de datos para agricultura de precisión
+
+### Maestría en Ingeniería
+**Instituto Tecnológico del Valle del Guadiana** (2020 - 2022)  
+4.0/4.0 | Especialización en sistemas mecatrónicos
+
+## Habilidades Técnicas
+
+| Categoría          | Tecnologías                                      |
+|--------------------|-------------------------------------------------|
+| Programación       | Python, R, SQL, C++, LabVIEW, Arduino/ESP32     |
+| GIS & Agricultura  | QGIS, ArcGIS, Sensores agrícolas, Análisis de suelos |
+| Manufactura        | SolidWorks, CNC, Fusion 360, Impresión 3D       |
+| Ciencia de Datos   | Machine Learning, Pandas, Scikit-learn, TensorFlow |
+
+## Publicaciones
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
