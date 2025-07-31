@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# **David Orlando Romero Soto**
-
 **Ph.D. Candidate in Agricultural and Forestry Sciences**  
 Universidad Juárez del Estado de Durango  
 Research: *Environmental monitoring systems using IoT technologies and data science*  
