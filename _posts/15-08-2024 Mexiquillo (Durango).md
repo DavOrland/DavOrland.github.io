@@ -8,40 +8,40 @@ tags:
   - durango
 ---
 
-¡Hola!
+Hello!
 
 ![perfil](../images/08-2025-Mexiquillo/00-perfil.jpg)
 
-Este fin de semana nos lanzamos a una aventura en el corazón de la Sierra Madre Occidental: el Parque Natural Mexiquillo, en Durango. Sin duda un lugar para desconectarse de la rutina y conectar con la naturaleza.
+This weekend we set off on an adventure deep in the heart of the Sierra Madre Occidental: Mexiquillo Natural Park, in Durango. It's definitely a place to disconnect from the daily grind and reconnect with nature.
 
-## ¿Qué hacer en Mexiquillo?
+## What to do in Mexiquillo?
 
-Mexiquillo es famoso por sus paisajes boscosos, formaciones rocosas que parecen de otro planeta y sus impresionantes cascadas. Aquí les dejo lo imperdible:
+Mexiquillo is known for its forested landscapes, otherworldly rock formations, and stunning waterfalls. Here's what you absolutely can't miss:
 
-*   **El Jardín de Piedras:** Caminen entre gigantescas formaciones rocosas volcánicas... de película!
+*   **The Stone Garden:** Walk among massive volcanic rock formations... straight out of a movie!
 ![jardin de piedras](../images/08-2025-Mexiquillo/03-jardin.jpg)
 
-*   **Cascada de Mexiquillo:** Una caída de agua impresionante. El sonido y la vista son espectaculares.
+*   **Mexiquillo Waterfall:** A breathtaking cascade. The sound and view are spectacular.
 ![cascada](../images/08-2025-Mexiquillo/01-cascada.jpg)
 
-*   **Los Túneles de la antigua vía de tren:** Exploren los túneles que atraviesan las montañas, un vestigio del proyecto ferroviario que nunca se concretó. Es una caminata llena de historia, (y muy larga x.x).
+*   **Old railway tunnels:** Explore the tunnels that cut through the mountains—remnants of a railway project that was never completed. It's a hike full of history (and super long x.x).
 ![tunel](../images/08-2025-Mexiquillo/02-tuneles.jpg)
 
-*   **Estanque de peces:** Al final de los túneles, se encontraran con una pequeña cabaña al lado de los estanques de peces donde pueden pasar el rato mientras degustan una trucha.
+*   **Fish pond:** At the end of the tunnels, you'll find a small cabin next to fish ponds where you can relax and enjoy some fresh trout.
 ![estanque](../images/08-2025-Mexiquillo/peces.jpg)
 
-Tuvimos la fortuna de tener un clima muy húmedo, lo que propició una vistas geniales con neblina! Fue el clima y ambiente perfecto para una muy larga caminata.
+We were lucky to have very humid weather, which gave us amazing misty views! It was the perfect atmosphere for a long, long hike.
 ![neblina](../images/08-2025-Mexiquillo/04-neblina.jpg)
 
 
 
 
-## Tips para el viaje
+## Travel Tips
 
-*   **Hospedaje:** Hay cabañas rústicas que pueden rentar para una experiencia completa.
-*   **Clima:** El clima es de montaña, así que preparados para el frío, incluso en verano.
-*   **Comida:** No se pierdan la comida local en los pequeños restaurantes de la zona. ¡Prueben la birria!
+*   **Lodging:** There are rustic cabins available to rent for a full-on nature experience.
+*   **Weather:** It's mountain weather, so be prepared for chilly temperatures—even in summer.
+*   **Food:** Don’t miss out on the local cuisine at the small restaurants around the area. Try the birria!
 
 ![hongos](../images/08-2025-Mexiquillo/05-hongos.jpg)
 
-Espero que esta mini-guía los anime a visitar este rincón mágico de México.
+Hope this mini-guide inspires you to visit this magical corner of Durango-Mexico.
