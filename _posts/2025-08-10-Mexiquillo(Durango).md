@@ -1,5 +1,5 @@
 ---
-title:  "Guía para visitar Mexiquillo: Un paraíso de piedra y pino en Durango"
+title:  "Guide to Visiting Mexiquillo: A Paradise of Stone and Pine in Durango"
 date: 10-08-2025
 permalink: /posts/2025/08/blog-post-1/
 tags:

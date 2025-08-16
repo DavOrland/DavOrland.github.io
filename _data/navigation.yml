@@ -1,9 +1,9 @@
 main:
-  - title: "Publicaciones"
+  - title: "Publications"
     url: /publications/
   - title: "CV"
     url: /cv/
-  - title: "Proyectos"
+  - title: "Projects"
     url: /portfolio/
   - title: "Blog"
     url: /year-archive/
