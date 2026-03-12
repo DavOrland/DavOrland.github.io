@@ -1,30 +1,30 @@
 ---
 title: "Forest Monitoring Network"
-excerpt: "Sistema IoT con comunicación LoRa para monitoreo microclimático en áreas forestales."
+excerpt: "IoT system with LoRa communication for microclimate monitoring in forested areas."
 collection: portfolio
 ---
 
-## Descripción del Proyecto
+## Project Description
 
-Este proyecto consiste en el desarrollo de una **red de sensores microclimáticos** diseñada para operar en áreas forestales remotas. El sistema utiliza tecnología de comunicación **LoRa (Long Range)** para transmitir datos de temperatura, humedad y otras variables ambientales sin necesidad de cobertura celular convencional.
+This project involves the development of a **microclimate sensor network** designed to operate in remote forested areas. The system utilizes **LoRa (Long Range)** communication technology to transmit temperature, humidity, and other environmental variables without the need for conventional cellular coverage.
 
-El objetivo principal es generar bases de datos robustas para el análisis de series temporales, facilitando la predicción de disponibilidad hídrica y la prevención de incendios.
+The primary objective is to generate robust databases for time-series analysis, facilitating water availability prediction and wildfire prevention.
 
-## Avances del Proyecto
+## Project Progress
 
-### 1. Diseño de Hardware (Nodos)
-* **Microcontrolador:** Implementación exitosa con ESP32.
-* **Energía:** Sistema de alimentación autónomo mediante paneles solares y baterías Li-Po.
-* **Sensores:** Integración de sensores DHT22 y de humedad de suelo capacitivos.
+### 1. Hardware Design (Nodes)
+* **Microcontroller:** Successful implementation using ESP32.
+* **Power:** Autonomous power system via solar panels and Li-Po batteries.
+* **Sensors:** Integration of SHT30 sensors for temperature and capacitive soil moisture sensors. BME688 sensor for barometric pressure, temperature, humidity, altitude, and gas resistance.
 
-### 2. Red de Comunicaciones
-* Se ha establecido una topología de red en estrella.
-* Pruebas de alcance LoRa realizadas con éxito hasta 5km en línea de vista.
-* Configuración de Gateway para subir datos a la nube.
+### 2. Communication Network
+* A star network topology has been established.
+* Successful LoRa range tests conducted up to 5km within line of sight.
+* Gateway configuration for uploading data to the cloud.
 
-### 3. Análisis de Datos
-* Recolección inicial de datos en el sitio de prueba (Sierra Madre Occidental).
-* Desarrollo de scripts en Python para limpieza y visualización de datos históricos.
+### 3. Data Analysis
+* Initial data collection at the test site (Sierra Madre Occidental).
+* Development of Python scripts for cleaning and visualizing historical data.
 
-## Galería
-*(Aquí puedes agregar imágenes de tus prototipos o instalaciones en campo)*
+## Gallery
+*(Here you can add images of your prototypes or field installations)*
