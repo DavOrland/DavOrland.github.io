@@ -9,7 +9,7 @@ title: "Research Projects"
 - Pneumatic automation systems with ESP32
 - Integration of industrial sensors
 
-## Forest Monitoring Network
+## [Forest Monitoring Network](/portfolio/forest-monitoring/)
 **IoT system with LoRa communication**  
 - Network of microclimatic sensors
 - Remote data collection in forested areas
