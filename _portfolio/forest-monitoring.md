@@ -40,8 +40,10 @@ By employing a redundant design with **BME680** and **SHT3x** sensors, the syste
 
 
 ## Gallery: Field installations
+
 Data logger installed
-![installed](/images/03-2026-project-forest-monitoring/x1-datainstaled.jpeg)
+![installed](/images/03-2026-project-forest-monitoring/x1-datainstalled.jpeg)
+
 
 Checking data
 ![reacal](/images/03-2026-project-forest-monitoring/x2-recalibration.jpeg)
